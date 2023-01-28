@@ -1,0 +1,17 @@
+task-1- to view the content of a file, I used cat command (cat <filename.extension>)
+task-2- to change the acces , used chmod 777 <filename>
+task-3- to check which command I ran till now- (history)
+task-4- to remove a directory, first is to make sure the directory is empty. then typed the command-> rm -d <directory name>
+task-5- used the command touch fruits.txt to create the file and used cat fruits.txt to view the content. 
+task-6- created another file(touch devops.txt) and added the contents using nano command(nano devops.txt).
+task-7- used head command to show only top 3 fruits(head -n 3 devops.txt)
+task-8- used tail command to show bottom 3 fruits(tail -n 3 devops.txt)
+task-9- touch Colors.txt and cat Colors.txt
+task-10- nano Colors.txt
+task-11- diff fruits.txt Colors.txt
+
+End of day 3...............
+
+created Submission_day-03.txt file using touch command and added contents using nano.
+
+ 

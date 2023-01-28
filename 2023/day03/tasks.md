@@ -13,6 +13,3 @@ Task: What is the linux command to
 9. To create another file Colors.txt and to view the content.
 10. Add content in Colors.txt (One in each line) - Red, Pink, White, Black, Blue, Orange, Purple, Grey.
 11. To find the difference between fruits.txt and Colors.txt file.
-
-
-Reference: https://www.linkedin.com/pulse/linux-commands-devops-used-day-to-day-activit-chetan-/
