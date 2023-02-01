@@ -24,6 +24,6 @@
  
  - Post about it on LinkedIn and Let me know :)
 
- Article Reference: [Click here to read basic Linux Shell Scripting](https://devopscube.com/linux-shell-scripting-for-devops/)
+ Article Reference: [Click here to read basic Linux Shell Scripting](https://devopscube.com/linux-shell-scripting-fShell scripting is a type of scripting language that is used in the terminal or command line interface to automate tasks and perform various operations on a computer system. In the context of DevOps, shell scripts are used to automate various tasks, such as setting up infrastructure, deploying code, and testing. or-devops/)
 
  YouTube Vedio: [EASIEST Shell Scripting Tutorial for DevOps Engineers](https://www.youtube.com/watch?v=_-D6gkRj7xc&list=PLlfy9GnSVerQr-Se9JRE_tZJk3OUoHCkh&index=3)

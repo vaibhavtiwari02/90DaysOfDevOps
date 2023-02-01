@@ -1,0 +1,17 @@
+Answer-01:
+Shell scipting is a type of scripting language that is written in the command line of a Linux machine to automate various tasks and perform 
+various operations In context of DevOps, shell scripts are used to automate tasks like setting up infrastructure, deploying code and testing.
+
+Answer-02:
+'#!/bin/bash' is used to denote  bash script document. to understand this in a better way let us take an example of an html file, generally the
+first line of Html document we write "DoctyShell scripting is a type of scripting language that is used in the terminal or command line interface to automate tasks and perform various operations on a computer system. In the context of DevOps, shell scripts are used to automate various Shell scripting is a type of scripting language that is used in the terminal or command line interface to automate tasks and perform various operations on a computer system. In the context of DevOps, shell scripts are used to automate various tasks, such as setting up infrastructure, deploying code, and testing. tasks, such as setting up infrastructure, deploying code, and testing. pe! html" to represent it as an html file.
+Yes, we can write '#/bin/sh' there won't be any issue by doing that.
+
+Answer-3:
+ Image named "answer-3_day4" has been attached.
+
+Answer-4: 
+ Image has been attached.
+
+Answer-5:
+ Image has been attached.
